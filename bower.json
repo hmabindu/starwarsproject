@@ -1,0 +1,19 @@
+{
+  "name": "react-redux-starwarsapi",
+  "description": "React Redux Star Wars API",
+  "main": "bin/server.js",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "redux",
+    "swapi"
+  ],
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
